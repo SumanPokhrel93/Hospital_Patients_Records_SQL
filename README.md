@@ -3,13 +3,8 @@
 Synthetic data on ~1k patients of Massachussets General Hospital from 2011-2022, including information on patient demographics, insurance coverage, and medical encounters & procedures. [source: Maven Analytics]
 Dataset:[link](https://mavenanalytics.io/data-playground/hospital-patient-records)
 
-## Database Design
-- Patients
-- Encounters
-- Procedures
-- Payers
-
 ## SQL SKills Demonstrated
+- Postgresql
 - Joins
 - Aggregations
 - Group By
